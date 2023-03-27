@@ -1,2 +1,3 @@
 # tikTakGame
-a game
+full functional tiktak game using js
+
